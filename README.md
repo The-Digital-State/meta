@@ -1,41 +1,55 @@
 # About
 
-The Digital State aims to bring concept of blockchain-based DAO (Decentralised Autonomus Organisations) under the control of "Digital Constitution" which would be mutually agreed on by all the parties as well as provide mechanisms of backind out. Here are some features:
+![schema](assets/ds-schema.png)
 
- - Anyone may create a new DAO (with just some minimal ammount of crypto)
- - DAOs come with treasury, where DAOs wealth is stored and is controlled by members of DAO.
- - DAO approve all decisions through vote.
+**Blockchain-based decentralised and autonomous platform for organisations and individuals who wish to build a more democratic society.**
 
-On their own - DAOs don't have any binding legislation and therefore would unlikely become "legal" in many country. This is where "Digital Constitution" come into place:
+The Digital State is a digital implementation of a key democratic institutions based on modern technologies of blockchain, cryptography and decentralisation.
 
- - Any DAO may create a new "Digital Constitution" and becoming a Governing DAO.
- - Governing DAO must provide "constitutional court" and "citizenship registry" providers.
- - Treasury of a Governing DAO becomes a Digital State Budget
- - Governing DAO may decide on the tax contribution for some operations between DAOs or Digital Citizens.
- - Other DAOs may elect to enter into binding obligations under Digital Constitutions. That means that Count would have access to DAOs treasury if DAO would violate the Digital Constitution.
- - Should DAO choose to leave area of "Digital Constitution" they would incur penalty (defined by Governing DAO)
+## Our Mission
 
-Digital Citezenship:
- - "citizenship registry" is an off-line facility provided by Governing DAO for issuing and revoking  "Citizen Tokens" - making sure that every citizen has just one token.
- - Each citizen accumulates 'Power toknes' which they can legally use once they reach voting age.
- - Citizens may decide to burn Power tokens to show their political support for a party DAO, motion, petition or keep their tokens if they are unhappy with the governance at the moment.
- - Additional universal income may be provided to citizens based on exports (Oil, Gas or other valuables) or leasing national resources (e.g. railway, power lines, broadband) no corporations.
+We strive to bring order and decentralisation of political power to the countries that still remain under a rule of authoritarian government in a peaceful way. With the Digital State - we bring the benifits of a democratic societty to the citizens and organisations while protecting their identity.
 
-Escape mechanism:
- - Organisations or Citizens will always have ways of leaving "Digital Constitution" or switching to a different Governing DAO if their rights are opressed.
+### Step 1: Your Freedom of assembly (DAO)
 
+Authoritarians will take away your freedom of assembly. We give you back the freedom to self-organise and make decisions to communities, corporations and other organisations within the digital state. Any participat can anonymously create an organisations and invite other members. Organisations are decentralised and are only governed by it's members - therefore cannot be prosecuted.
 
-Based on the core structure the following would be possible to be implemented:
- - Instant tax - no need for accountants - tax is deducted right away and calculated automatically. All organisations and citizens under Digital Constitution have to pay tax fairly.
- - Personal Information Safety - each citizen is responsible for the safety of their Digital Citizenship token. If they loose it, they can get it re-issued. Token can also be used for authentication, however will provide no personal details about the individual.
- - DAOs may have a complex mechanisms of managing their internal monetary structure, however all financial movements should be approved by the board members.
- - DAOs may pay salaries to citizens - unless it is properly registered with a citizenship token - a "financial export fee" may incur.
+Any organisation may publish undisputable manifest, share their goals and create official press releases through a vote of their governing members.
 
+While members of organisations are anonymous and protected - the organisation itself is public and is a source of trust, resilient to miss-information, shut-down, take-over and bribery.
 
-Financial import and Export fees
- - DAOs under the same Digital Constitution will be encouraged financially to trade and receive benefits of Governing DAO.
- - Any financial assets leaving the area of Digital Constitution will incur a "financial export" fee, but will not be forbidden.
- - Governing DAO may create trade agreements with other Governing DAOs creating exceptions for financial import/export fees.
+### Step 2: Your freedom to choose constitution (State)
+
+Authoritarians will neglect or rewrite their constitution. We give you back the freedom to make your own constitution and encourage societty to join your governance framework through a peaceful means. Any DAO may announce a State provided that the following 3 criterias are met:
+
+1. State must have a constitution - a document published by a founding DAO that regulates a legislative framework for the State
+2. Founding DAO must provide a digital Court - a mechanism that can be used to resolve legal disputes between DAOs
+3. Budget and Taxation scheme - a legal and transparent mechanism of funding governance
+
+DAOs may join or leave State of their choosing (leaving State may incur a penalty). While DAO is under the State governance, their decision making can be challenged by other DAOs with the dispute being settled in a digital court. If the state court appears unfair - participating DAOs may decide to leave the State in order to protect their assets and ideals.
+
+### Step 3: Benifits and freedoms to the citizens (Digital Citizenship)
+
+Authoritarians will attempt to restrict and tax citizens. We give citizens their freedom and benifits of universal income. When the State is formed, founding DAO will need to establish citizen identification mechanism. This would usually be off-chain process but it would define some criteria on how to identify personal identity. 
+
+The identity mechanism must offer meet several requirements:
+
+- Any single person may have no more than a single "real" identity (Digital Citizenship)
+- A person may have several anonymous profiles (may be a subject to a financial deposit)
+- Identity must work on "zero-knowledge" basis
+
+Both real identity and anonymous profile can own things such as property, bonds etc. Anonymous profile is similarly owned by some real identity. Government and any DAO must provide their services to all holders of "real identites" without bias. In most cases services should be provided to the "anonymous profiles" also - which are means for citizens to protect their personal information. 
+
+### Step 4: Voting power
+
+Digital Citizenship allow person to vote digitally. While it is possible to have a conventional style referendums, Digital State introduces new concepts of Voting Power:
+
+- Any digital citizen receives voting tokens on a regular intervals (monthly)
+- Voting tokens are non-transferrable and cannot be used until citizen is 18
+- A significance of a digital citizen during a vote is proportional to number of investe voting tokens
+- Voting tokens can be used in direct-democracy - referendums, petitions or representative-democracy - mayor or senate elections
+
+With a fluid voting power the citizens can point to the most pressing issues, does not discredit youth and allows citizens to appoint good representation through continious support.
 
 ## What is the state of the project?
 
